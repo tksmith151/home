@@ -1,1 +1,1 @@
-[Hacker News](https://news.ycombinator.com/front).
+[Hacker News](https://news.ycombinator.com/front)
